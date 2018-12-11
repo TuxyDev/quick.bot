@@ -1,0 +1,21 @@
+{
+  "name": "quick.bot",
+  "version": "1.0.0",
+  "description": "A Discord bot wrapper for easy management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quick",
+    "discord",
+    "easy",
+    "simple",
+    "bot"
+  ],
+  "author": "TuxyDev",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
